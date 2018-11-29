@@ -9,8 +9,8 @@ from email.mime.text import MIMEText
 import sys
 
 mail_host = 'smtp@163.com'
-mail_user = '15625087150@163.com'
-mail_pass = 'YYQ2018'
+mail_user = 'your_mail@163.com'
+mail_pass = 'your_passwd'
 mail_postfix = '163.com'
 def send_mail(to_list,subject,content):
     me = "zabbix 监控告警平台"+"<"+mail_user+"@"+mail_postfix+">"
