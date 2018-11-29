@@ -43,5 +43,5 @@
 </br>
 案例20: [自动化运维-代码上线](https://github.com/Ivan-yyq/shell20/blob/master/codes/20.md)
 </br>
-案例20: [获取本机网卡IP地址](https://github.com/Ivan-yyq/shell20/blob/master/codes/21.md)
+案例21: [获取本机网卡IP地址](https://github.com/Ivan-yyq/shell20/blob/master/codes/21.md)
 
