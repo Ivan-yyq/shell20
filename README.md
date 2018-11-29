@@ -1,7 +1,7 @@
 #### 51cto订阅专栏《实战：20天精通Linux shell脚本》
 专栏地址： [http://blog.51cto.com/cloumn/detail/22](http://blog.51cto.com/cloumn/detail/22)
 
-邮件模板：(https://github.com/Ivan-yyq/shell20/blob/master/codes/mail.py)
+邮件模板：https://github.com/Ivan-yyq/shell20/blob/master/codes/mail.py
 </br>
 案例1: [备份MySQL数据库](https://github.com/Ivan-yyq/shell20/blob/master/codes/1.md)
 </br>
