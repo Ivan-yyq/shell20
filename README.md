@@ -44,4 +44,7 @@
 案例20: [自动化运维-代码上线](https://github.com/Ivan-yyq/shell20/blob/master/codes/20.md)
 </br>
 案例21: [获取本机网卡IP地址](https://github.com/Ivan-yyq/shell20/blob/master/codes/21.md)
-
+</br>
+案例22: [把/msxf目录下的所有以ms开头的文件夹保存到dirlist.txt，然后遍历，在每个文件中创建一个test.txt文件](https://github.com/Ivan-yyq/shell20/blob/master/codes/22.md)
+</br>
+案例21: [判断一个文件是不是字符设备文件，如果是将其拷贝到/dev目录下](https://github.com/Ivan-yyq/shell20/blob/master/codes/23.md)
